@@ -75,11 +75,7 @@ font-size: 2rem;
 
  h2 {
    text-align: center;
- }
-
-.imagem {
-    margin:0 auto; /* margem vertical definida como 0 e horizontal automática */
-    width:200px;
+ 
 }
 
 .imagem {
