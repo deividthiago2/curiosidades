@@ -36,6 +36,10 @@ font-size: 2rem;
     justify-content: center;
  }
 
+  nav ul li a:hover{
+   color:red
+  }
+
  .curisidades-card {
     background-color: white;
     border-radius: 8px;
